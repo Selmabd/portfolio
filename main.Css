@@ -1,3 +1,40 @@
-body{
-    
+
+.client-card {
+  background-color: #F3F3F3;
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+  min-height: 250px;
+  width: 394px;
+}
+
+
+.imonial-text {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #2D2D2D;
+  margin-bottom: 40px;
+}
+
+
+.client-info {
+  display: flex;
+  align-items: center; 
+  gap: 15px;
+}
+
+
+.client-details h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.client-details p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
 }
