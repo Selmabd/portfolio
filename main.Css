@@ -66,9 +66,12 @@ h1{
     border: none;
     max-width: 394px;
     max-height: 424px;
+    padding-left: 48px;
+    padding-right: 48px;
 }
 
 .containerr{
     padding-left: 100px;
     padding-right: 100px;
 }
+
