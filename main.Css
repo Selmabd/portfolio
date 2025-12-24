@@ -67,3 +67,8 @@ h1{
     max-width: 394px;
     max-height: 424px;
 }
+
+.containerr{
+    padding-left: 100px;
+    padding-right: 100px;
+}
